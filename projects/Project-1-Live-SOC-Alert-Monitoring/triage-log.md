@@ -33,6 +33,7 @@
 ![SOC344 Alert Overview](alert1.png)
 *SOC344 Alert Overview*
 
+<br>
 
 ![SOC344 Alert Overview](alert1.1.png)
 *SOC344 Alert Overview*
