@@ -30,47 +30,47 @@
 
 
 
-![SOC344 Alert Overview](alert1.png)
+![SOC344 Alert Overview](screenshots/alert1.png)
 *SOC344 Alert Overview*
 
 <br>
 
-![SOC344 Alert Overview](alert1.1.png)
+![SOC344 Alert Overview](screenshots/alert1.1.png)
 *SOC344 Alert Overview*
 
 <br>
 
-![VirusTotal threat analysis showing 54/70 malicious detections for EDR-Freeze_1.0.exe hash](alert1.2.png)
+![VirusTotal threat analysis showing 54/70 malicious detections for EDR-Freeze_1.0.exe hash](screenshots/alert1.2.png)
 *VirusTotal threat analysis showing 54/70 malicious detections for EDR-Freeze_1.0.exe hash*
 
 <br>
 
-![WS-Prod-02 Endpoint Details, Host Containment Status & EDR-Freeze Process Execution](alert1.3.png)
+![WS-Prod-02 Endpoint Details, Host Containment Status & EDR-Freeze Process Execution](screenshots/alert1.3.png)
 *WS-Prod-02 Endpoint Details, Host Containment Status & EDR-Freeze Process Execution*
 
 <br>
 
-![SIEM log analysis confirming execution event of EDR-Freeze_1.0.exe on 172.16.20.69](alert1.4.png)
+![SIEM log analysis confirming execution event of EDR-Freeze_1.0.exe on 172.16.20.69](screenshots/alert1.4.png)
 *SIEM log analysis confirming execution event of EDR-Freeze_1.0.exe on 172.16.20.69*
 
 <br>
 
-![Process execution tree showing WerFaultSecure.exe spawned by EDR-Freeze_1.0.exe to suspend EDR agent](alert1.5.png)
+![Process execution tree showing WerFaultSecure.exe spawned by EDR-Freeze_1.0.exe to suspend EDR agent](screenshots/alert1.5.png)
 *Process execution tree showing WerFaultSecure.exe spawned by EDR-Freeze_1.0.exe to suspend EDR agent*
 
 <br>
 
-![Network action logs showing outbound connection to GitHub CDN 185.199.111.133 and AWS Metadata service 169.254.169.254](alert1.6.png)
+![Network action logs showing outbound connection to GitHub CDN 185.199.111.133 and AWS Metadata service 169.254.169.254](screenshots/alert1.6.png)
 *Network action logs showing outbound connection to GitHub CDN 185.199.111.133 and AWS Metadata service 169.254.169.254*
 
 <br>
 
-![VirusTotal IP lookup for GitHub CDN infrastructure 185.199.111.133](alert1.7.png)
+![VirusTotal IP lookup for GitHub CDN infrastructure 185.199.111.133](screenshots/alert1.7.png)
 *VirusTotal IP lookup for GitHub CDN infrastructure 185.199.111.133*
 
 <br>
 
-![SIEM log correlation showing PowerShell HTTPS connection to 185.199.111.133](alert1.8.png)
+![SIEM log correlation showing PowerShell HTTPS connection to 185.199.111.133](screenshots/alert1.8.png)
 *SIEM log correlation showing PowerShell HTTPS connection to 185.199.111.133*
 
 
@@ -106,30 +106,30 @@
 
 
 
-![SOC342 Alert Overview](alert2.png)
+![SOC342 Alert Overview](screenshots/alert2.png)
 *SOC342 Alert Overview*
 
 <br>
 
-![SOC342 Alert Overview](alert2.1.png)
+![SOC342 Alert Overview](screenshots/alert2.1.png)
 *SOC342 Alert Overview*
 
 <br>
 
-![VirusTotal threat analysis showing 10/89 malicious detections for 107.191.58.76 IP address](alert2.2.png)
+![VirusTotal threat analysis showing 10/89 malicious detections for 107.191.58.76 IP address](screenshots/alert2.2.png)
 *VirusTotal threat analysis showing 10/89 malicious detections for 107.191.58.76 IP address*
 
 <br>
 
-![SIEM log analysis showing malicious proxy request targeting SharePoint ToolPane.aspx from 107.191.58.76](alert2.3.png)
+![SIEM log analysis showing malicious proxy request targeting SharePoint ToolPane.aspx from 107.191.58.76](screenshots/alert2.3.png)
 *SIEM log analysis showing malicious proxy request targeting SharePoint ToolPane.aspx from 107.191.58.76*
 
 <br>
 
-![SharePoint01 endpoint details showing network action logs and connection to 107.191.58.76](alert2.4.png)
+![SharePoint01 endpoint details showing network action logs and connection to 107.191.58.76](screenshots/alert2.4.png)
 *SharePoint01 endpoint details showing network action logs and connection to 107.191.58.76*
 
 <br>
 
-![SharePoint01 endpoint containment status and process execution history showing reconnaissance commands](alert2.5.png)
+![SharePoint01 endpoint containment status and process execution history showing reconnaissance commands](screenshots/alert2.5.png)
 *SharePoint01 endpoint containment status and process execution history showing reconnaissance commands*
